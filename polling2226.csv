@@ -1,4 +1,8 @@
 Date,last_date,Firm,sample_size,pv_lnp,pv_alp,pv_grn,pv_oth,tpp_alp,tpp_lnp
+16-17 Sep 2025,17 Sep 2025,Redbridge,1000,37,32,13,18,52,48
+16-17 Aug 2025,17 Aug 2025,Resolve,1000,33,32,12,22,53,47
+23 Jun 2025 - 1 Jul 2025,1 Jul 2025,Newspoll,1226,35,35,12,18,53,47
+19-30 Jun 2025,30 Jun 2025,Redbridge,1183,38,33,14,15,51.5,48.5
 6-29 Aug 2024,29 Aug 2024,Wolf,2024,40,28,14,18,48,52
 4-5 Aug 2024,5 Aug 2024,Redbridge,1514,40,31,12,17,50,50
 14 Jul 2024,14 Jul 2024,Resolve,1000,27,37,15,21,50,50
